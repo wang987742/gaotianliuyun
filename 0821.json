@@ -155,7 +155,7 @@
 {"name":"26db","type":0,"url":"http://vip.26db.cn/g/?url="},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
 {"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
-{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
+{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 ],
 "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
