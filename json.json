@@ -20,7 +20,6 @@
 {"key":"csp_WoGG","name": "👽玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://weixine.net/ali.jar"},
 {"key":"影探4K","name":"💧影探┃4K","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/yingtan.js"},
 { "key": "如意4K", "name": "💧如意┃4K", "type": 3, "api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/ruyi.js"},
-//{"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"}, 
 {"key":"车姐4K","name":"❤车姐┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key": "运输车", "name": "💧运输车┃4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/feiyun.json"},
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
