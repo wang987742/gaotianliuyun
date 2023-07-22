@@ -13,20 +13,6 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （1）0821.json  大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
 
-（2）0825.json  小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url；
-
-（3）0826.json  完全来源于饭太硬的jar包和配置；
-
-（4）0827.json  jar包和配置来源于fongmi；
-
-（5）0828.json  jar包和配置来源于唐三；
-
-（6）js.json  资源来源于道长drpy(js)仓库；
-
-（7）XYQ.json  XYQ源，jar包和配置来源于香雅情。
-
-（8）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气。
-
 2. APP推荐:
 
 （1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、支持自动换源、支持直播倍速，手机版支持投屏；
@@ -34,8 +20,6 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 （2）q215613905版本  项目地址：https://github.com/q215613905/TVBoxOS 支持直播回放；
 
 （3）takagen99版本  项目地址：https://github.com/takagen99/Box 支持直播回放，界面美观；
-
-（4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持直播回放，支持弹幕。
 
 3. TVBox各路大佬配置（排名不分先后）：
 
